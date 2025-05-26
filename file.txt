@@ -1,3 +1,5 @@
 1
 2
 3
+Line 2 - Unstaged change
+Line 3 - Unstaged again
